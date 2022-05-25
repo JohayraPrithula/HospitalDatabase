@@ -1,7 +1,7 @@
 # Hospital Database System with Python and MySQL
 
 ## About
-This repo is a simple MySQL implementaion with python. It contains 5 basic functions that works on a local fatabase.
+This repo is a simple MySQL implementaion with python. It contains 5 basic functions that works on a local database.
 
 ## Packages:
 
